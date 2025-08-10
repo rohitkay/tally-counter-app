@@ -7,40 +7,40 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		520224722E483F4A003FBCC4 /* PBXContainerItemProxy */ = {
+		520224B32E488D38003FBCC4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 5202245B2E483F47003FBCC4 /* Project object */;
+			containerPortal = 5202249C2E488D34003FBCC4 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 520224622E483F47003FBCC4;
+			remoteGlobalIDString = 520224A32E488D35003FBCC4;
 			remoteInfo = "Tally Counter App";
 		};
-		5202247C2E483F4A003FBCC4 /* PBXContainerItemProxy */ = {
+		520224BD2E488D38003FBCC4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 5202245B2E483F47003FBCC4 /* Project object */;
+			containerPortal = 5202249C2E488D34003FBCC4 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 520224622E483F47003FBCC4;
+			remoteGlobalIDString = 520224A32E488D35003FBCC4;
 			remoteInfo = "Tally Counter App";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		520224632E483F47003FBCC4 /* Tally Counter App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tally Counter App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		520224712E483F4A003FBCC4 /* Tally Counter AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tally Counter AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5202247B2E483F4A003FBCC4 /* Tally Counter AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tally Counter AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		520224A42E488D35003FBCC4 /* Tally Counter App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tally Counter App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		520224B22E488D38003FBCC4 /* Tally Counter AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tally Counter AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		520224BC2E488D38003FBCC4 /* Tally Counter AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tally Counter AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		520224652E483F47003FBCC4 /* Tally Counter App */ = {
+		520224A62E488D35003FBCC4 /* Tally Counter App */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "Tally Counter App";
 			sourceTree = "<group>";
 		};
-		520224742E483F4A003FBCC4 /* Tally Counter AppTests */ = {
+		520224B52E488D38003FBCC4 /* Tally Counter AppTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "Tally Counter AppTests";
 			sourceTree = "<group>";
 		};
-		5202247E2E483F4A003FBCC4 /* Tally Counter AppUITests */ = {
+		520224BF2E488D38003FBCC4 /* Tally Counter AppUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "Tally Counter AppUITests";
 			sourceTree = "<group>";
@@ -48,21 +48,21 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		520224602E483F47003FBCC4 /* Frameworks */ = {
+		520224A12E488D35003FBCC4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5202246E2E483F4A003FBCC4 /* Frameworks */ = {
+		520224AF2E488D38003FBCC4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		520224782E483F4A003FBCC4 /* Frameworks */ = {
+		520224B92E488D38003FBCC4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		5202245A2E483F47003FBCC4 = {
+		5202249B2E488D34003FBCC4 = {
 			isa = PBXGroup;
 			children = (
-				520224652E483F47003FBCC4 /* Tally Counter App */,
-				520224742E483F4A003FBCC4 /* Tally Counter AppTests */,
-				5202247E2E483F4A003FBCC4 /* Tally Counter AppUITests */,
-				520224642E483F47003FBCC4 /* Products */,
+				520224A62E488D35003FBCC4 /* Tally Counter App */,
+				520224B52E488D38003FBCC4 /* Tally Counter AppTests */,
+				520224BF2E488D38003FBCC4 /* Tally Counter AppUITests */,
+				520224A52E488D35003FBCC4 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		520224642E483F47003FBCC4 /* Products */ = {
+		520224A52E488D35003FBCC4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				520224632E483F47003FBCC4 /* Tally Counter App.app */,
-				520224712E483F4A003FBCC4 /* Tally Counter AppTests.xctest */,
-				5202247B2E483F4A003FBCC4 /* Tally Counter AppUITests.xctest */,
+				520224A42E488D35003FBCC4 /* Tally Counter App.app */,
+				520224B22E488D38003FBCC4 /* Tally Counter AppTests.xctest */,
+				520224BC2E488D38003FBCC4 /* Tally Counter AppUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		520224622E483F47003FBCC4 /* Tally Counter App */ = {
+		520224A32E488D35003FBCC4 /* Tally Counter App */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 520224852E483F4A003FBCC4 /* Build configuration list for PBXNativeTarget "Tally Counter App" */;
+			buildConfigurationList = 520224C62E488D38003FBCC4 /* Build configuration list for PBXNativeTarget "Tally Counter App" */;
 			buildPhases = (
-				5202245F2E483F47003FBCC4 /* Sources */,
-				520224602E483F47003FBCC4 /* Frameworks */,
-				520224612E483F47003FBCC4 /* Resources */,
+				520224A02E488D35003FBCC4 /* Sources */,
+				520224A12E488D35003FBCC4 /* Frameworks */,
+				520224A22E488D35003FBCC4 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				520224652E483F47003FBCC4 /* Tally Counter App */,
+				520224A62E488D35003FBCC4 /* Tally Counter App */,
 			);
 			name = "Tally Counter App";
 			packageProductDependencies = (
 			);
 			productName = "Tally Counter App";
-			productReference = 520224632E483F47003FBCC4 /* Tally Counter App.app */;
+			productReference = 520224A42E488D35003FBCC4 /* Tally Counter App.app */;
 			productType = "com.apple.product-type.application";
 		};
-		520224702E483F4A003FBCC4 /* Tally Counter AppTests */ = {
+		520224B12E488D38003FBCC4 /* Tally Counter AppTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 520224882E483F4A003FBCC4 /* Build configuration list for PBXNativeTarget "Tally Counter AppTests" */;
+			buildConfigurationList = 520224C92E488D38003FBCC4 /* Build configuration list for PBXNativeTarget "Tally Counter AppTests" */;
 			buildPhases = (
-				5202246D2E483F4A003FBCC4 /* Sources */,
-				5202246E2E483F4A003FBCC4 /* Frameworks */,
-				5202246F2E483F4A003FBCC4 /* Resources */,
+				520224AE2E488D38003FBCC4 /* Sources */,
+				520224AF2E488D38003FBCC4 /* Frameworks */,
+				520224B02E488D38003FBCC4 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				520224732E483F4A003FBCC4 /* PBXTargetDependency */,
+				520224B42E488D38003FBCC4 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				520224742E483F4A003FBCC4 /* Tally Counter AppTests */,
+				520224B52E488D38003FBCC4 /* Tally Counter AppTests */,
 			);
 			name = "Tally Counter AppTests";
 			packageProductDependencies = (
 			);
 			productName = "Tally Counter AppTests";
-			productReference = 520224712E483F4A003FBCC4 /* Tally Counter AppTests.xctest */;
+			productReference = 520224B22E488D38003FBCC4 /* Tally Counter AppTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		5202247A2E483F4A003FBCC4 /* Tally Counter AppUITests */ = {
+		520224BB2E488D38003FBCC4 /* Tally Counter AppUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5202248B2E483F4A003FBCC4 /* Build configuration list for PBXNativeTarget "Tally Counter AppUITests" */;
+			buildConfigurationList = 520224CC2E488D38003FBCC4 /* Build configuration list for PBXNativeTarget "Tally Counter AppUITests" */;
 			buildPhases = (
-				520224772E483F4A003FBCC4 /* Sources */,
-				520224782E483F4A003FBCC4 /* Frameworks */,
-				520224792E483F4A003FBCC4 /* Resources */,
+				520224B82E488D38003FBCC4 /* Sources */,
+				520224B92E488D38003FBCC4 /* Frameworks */,
+				520224BA2E488D38003FBCC4 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				5202247D2E483F4A003FBCC4 /* PBXTargetDependency */,
+				520224BE2E488D38003FBCC4 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				5202247E2E483F4A003FBCC4 /* Tally Counter AppUITests */,
+				520224BF2E488D38003FBCC4 /* Tally Counter AppUITests */,
 			);
 			name = "Tally Counter AppUITests";
 			packageProductDependencies = (
 			);
 			productName = "Tally Counter AppUITests";
-			productReference = 5202247B2E483F4A003FBCC4 /* Tally Counter AppUITests.xctest */;
+			productReference = 520224BC2E488D38003FBCC4 /* Tally Counter AppUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		5202245B2E483F47003FBCC4 /* Project object */ = {
+		5202249C2E488D34003FBCC4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					520224622E483F47003FBCC4 = {
+					520224A32E488D35003FBCC4 = {
 						CreatedOnToolsVersion = 16.4;
 					};
-					520224702E483F4A003FBCC4 = {
+					520224B12E488D38003FBCC4 = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 520224622E483F47003FBCC4;
+						TestTargetID = 520224A32E488D35003FBCC4;
 					};
-					5202247A2E483F4A003FBCC4 = {
+					520224BB2E488D38003FBCC4 = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 520224622E483F47003FBCC4;
+						TestTargetID = 520224A32E488D35003FBCC4;
 					};
 				};
 			};
-			buildConfigurationList = 5202245E2E483F47003FBCC4 /* Build configuration list for PBXProject "Tally Counter App" */;
+			buildConfigurationList = 5202249F2E488D34003FBCC4 /* Build configuration list for PBXProject "Tally Counter App" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 5202245A2E483F47003FBCC4;
+			mainGroup = 5202249B2E488D34003FBCC4;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 520224642E483F47003FBCC4 /* Products */;
+			productRefGroup = 520224A52E488D35003FBCC4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				520224622E483F47003FBCC4 /* Tally Counter App */,
-				520224702E483F4A003FBCC4 /* Tally Counter AppTests */,
-				5202247A2E483F4A003FBCC4 /* Tally Counter AppUITests */,
+				520224A32E488D35003FBCC4 /* Tally Counter App */,
+				520224B12E488D38003FBCC4 /* Tally Counter AppTests */,
+				520224BB2E488D38003FBCC4 /* Tally Counter AppUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		520224612E483F47003FBCC4 /* Resources */ = {
+		520224A22E488D35003FBCC4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5202246F2E483F4A003FBCC4 /* Resources */ = {
+		520224B02E488D38003FBCC4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		520224792E483F4A003FBCC4 /* Resources */ = {
+		520224BA2E488D38003FBCC4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		5202245F2E483F47003FBCC4 /* Sources */ = {
+		520224A02E488D35003FBCC4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5202246D2E483F4A003FBCC4 /* Sources */ = {
+		520224AE2E488D38003FBCC4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		520224772E483F4A003FBCC4 /* Sources */ = {
+		520224B82E488D38003FBCC4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		520224732E483F4A003FBCC4 /* PBXTargetDependency */ = {
+		520224B42E488D38003FBCC4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 520224622E483F47003FBCC4 /* Tally Counter App */;
-			targetProxy = 520224722E483F4A003FBCC4 /* PBXContainerItemProxy */;
+			target = 520224A32E488D35003FBCC4 /* Tally Counter App */;
+			targetProxy = 520224B32E488D38003FBCC4 /* PBXContainerItemProxy */;
 		};
-		5202247D2E483F4A003FBCC4 /* PBXTargetDependency */ = {
+		520224BE2E488D38003FBCC4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 520224622E483F47003FBCC4 /* Tally Counter App */;
-			targetProxy = 5202247C2E483F4A003FBCC4 /* PBXContainerItemProxy */;
+			target = 520224A32E488D35003FBCC4 /* Tally Counter App */;
+			targetProxy = 520224BD2E488D38003FBCC4 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		520224832E483F4A003FBCC4 /* Debug */ = {
+		520224C42E488D38003FBCC4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -330,7 +330,7 @@
 			};
 			name = Debug;
 		};
-		520224842E483F4A003FBCC4 /* Release */ = {
+		520224C52E488D38003FBCC4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -383,7 +383,7 @@
 			};
 			name = Release;
 		};
-		520224862E483F4A003FBCC4 /* Debug */ = {
+		520224C72E488D38003FBCC4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -420,7 +420,7 @@
 			};
 			name = Debug;
 		};
-		520224872E483F4A003FBCC4 /* Release */ = {
+		520224C82E488D38003FBCC4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -457,7 +457,7 @@
 			};
 			name = Release;
 		};
-		520224892E483F4A003FBCC4 /* Debug */ = {
+		520224CA2E488D38003FBCC4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -479,7 +479,7 @@
 			};
 			name = Debug;
 		};
-		5202248A2E483F4A003FBCC4 /* Release */ = {
+		520224CB2E488D38003FBCC4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -501,7 +501,7 @@
 			};
 			name = Release;
 		};
-		5202248C2E483F4A003FBCC4 /* Debug */ = {
+		520224CD2E488D38003FBCC4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -522,7 +522,7 @@
 			};
 			name = Debug;
 		};
-		5202248D2E483F4A003FBCC4 /* Release */ = {
+		520224CE2E488D38003FBCC4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -546,43 +546,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5202245E2E483F47003FBCC4 /* Build configuration list for PBXProject "Tally Counter App" */ = {
+		5202249F2E488D34003FBCC4 /* Build configuration list for PBXProject "Tally Counter App" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				520224832E483F4A003FBCC4 /* Debug */,
-				520224842E483F4A003FBCC4 /* Release */,
+				520224C42E488D38003FBCC4 /* Debug */,
+				520224C52E488D38003FBCC4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		520224852E483F4A003FBCC4 /* Build configuration list for PBXNativeTarget "Tally Counter App" */ = {
+		520224C62E488D38003FBCC4 /* Build configuration list for PBXNativeTarget "Tally Counter App" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				520224862E483F4A003FBCC4 /* Debug */,
-				520224872E483F4A003FBCC4 /* Release */,
+				520224C72E488D38003FBCC4 /* Debug */,
+				520224C82E488D38003FBCC4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		520224882E483F4A003FBCC4 /* Build configuration list for PBXNativeTarget "Tally Counter AppTests" */ = {
+		520224C92E488D38003FBCC4 /* Build configuration list for PBXNativeTarget "Tally Counter AppTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				520224892E483F4A003FBCC4 /* Debug */,
-				5202248A2E483F4A003FBCC4 /* Release */,
+				520224CA2E488D38003FBCC4 /* Debug */,
+				520224CB2E488D38003FBCC4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5202248B2E483F4A003FBCC4 /* Build configuration list for PBXNativeTarget "Tally Counter AppUITests" */ = {
+		520224CC2E488D38003FBCC4 /* Build configuration list for PBXNativeTarget "Tally Counter AppUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5202248C2E483F4A003FBCC4 /* Debug */,
-				5202248D2E483F4A003FBCC4 /* Release */,
+				520224CD2E488D38003FBCC4 /* Debug */,
+				520224CE2E488D38003FBCC4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 5202245B2E483F47003FBCC4 /* Project object */;
+	rootObject = 5202249C2E488D34003FBCC4 /* Project object */;
 }
