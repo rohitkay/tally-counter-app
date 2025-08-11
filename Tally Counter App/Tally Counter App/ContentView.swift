@@ -7,16 +7,24 @@
 
 import SwiftUI
 
+var count = 0
+
 struct ContentView: View {
     var body: some View {
         ZStack{
             Color.green.ignoresSafeArea()
                 
                     VStack {
+                        Text("\(count)")
+                        .font(.system(size: 100))
+                        .fontWeight(.bold)
+                        .padding(.top, -250)
+                        .foregroundColor(.white)
                         Image(systemName: "globe")
                             .imageScale(.large)
                             .foregroundStyle(.tint)
                         Text("Hello, world!")
+                        
                         
                     }
                 
