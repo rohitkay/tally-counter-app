@@ -18,14 +18,9 @@ struct ContentView: View {
                         Text("\(count)")
                         .font(.system(size: 100))
                         .fontWeight(.bold)
-                        .padding(.top, -250)
+                        .padding(.top, 50)
                         .foregroundColor(.white)
                         
-                        Image(systemName: "globe")
-                            .imageScale(.large)
-                            .foregroundStyle(.tint)
-                        
-                        Text("Hello, world!")
                         
                         Button(action:{}){
                             Text("+   ")
@@ -35,6 +30,7 @@ struct ContentView: View {
                             .cornerRadius(100)
                             .font(.system(size: 74))
                         }
+                        .padding(.top,200)
                         
                         Button(action:{})
                         {
@@ -46,6 +42,7 @@ struct ContentView: View {
                                 .cornerRadius(100)
                                 .font(.system(size:20))
                         }
+                        .padding(.top, 30)
                     }
                 
                 .padding()
