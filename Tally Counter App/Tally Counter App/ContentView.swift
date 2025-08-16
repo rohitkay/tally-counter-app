@@ -7,9 +7,9 @@
 
 import SwiftUI
 
-var count = 0
 
 struct ContentView: View {
+    @State private var count = 0
     var body: some View {
         ZStack{
             Color.green.ignoresSafeArea()
@@ -22,7 +22,8 @@ struct ContentView: View {
                         .foregroundColor(.white)
                         
                         
-                        Button(action:{}){
+                        Button(action:{
+                            count += 1}){
                             Text("+   ")
                             .padding()
                             .foregroundColor(.black)
