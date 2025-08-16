@@ -33,7 +33,7 @@ struct ContentView: View {
                         }
                         .padding(.top,200)
                         
-                        Button(action:{})
+                        Button(action:{self.count = 0})
                         {
                             Text("Reset")
                                 .padding()
