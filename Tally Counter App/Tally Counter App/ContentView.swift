@@ -35,6 +35,17 @@ struct ContentView: View {
                             .cornerRadius(100)
                             .font(.system(size: 74))
                         }
+                        
+                        Button(action:{})
+                        {
+                            Text("Reset")
+                                .padding()
+                                .padding()
+                                .foregroundColor(.white)
+                                .background(.black)
+                                .cornerRadius(100)
+                                .font(.system(size:20))
+                        }
                     }
                 
                 .padding()
