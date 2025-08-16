@@ -20,12 +20,21 @@ struct ContentView: View {
                         .fontWeight(.bold)
                         .padding(.top, -250)
                         .foregroundColor(.white)
+                        
                         Image(systemName: "globe")
                             .imageScale(.large)
                             .foregroundStyle(.tint)
+                        
                         Text("Hello, world!")
                         
-                        
+                        Button(action:{}){
+                            Text("+   ")
+                            .padding()
+                            .foregroundColor(.black)
+                            .background(.white)
+                            .cornerRadius(100)
+                            .font(.system(size: 74))
+                        }
                     }
                 
                 .padding()
