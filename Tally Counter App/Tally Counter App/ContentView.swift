@@ -31,6 +31,7 @@ struct ContentView: View {
                             .cornerRadius(100)
                             .font(.system(size: 74))
                         }
+                        .sensoryFeedback(.impact(flexibility: .solid, intensity: 1.0), trigger: count)
                         .padding(.top,200)
                         
                         Button(action:{self.count = 0})
