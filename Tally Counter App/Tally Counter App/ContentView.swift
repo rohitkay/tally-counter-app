@@ -12,7 +12,7 @@ struct ContentView: View {
     @State private var count = 0
     var body: some View {
         ZStack{
-            Color.green.ignoresSafeArea()
+            Color.blue.ignoresSafeArea()
                 
                     VStack {
                         Text("\(count)")
