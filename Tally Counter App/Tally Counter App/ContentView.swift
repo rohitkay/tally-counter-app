@@ -28,7 +28,7 @@ struct ContentView: View {
                             .padding()
                             .foregroundColor(.black)
                             .background(.white)
-                            .cornerRadius(100)
+                            .cornerRadius(150)
                             .font(.system(size: 74))
                         }
                         .sensoryFeedback(.impact(flexibility: .solid, intensity: 1.0), trigger: count)
@@ -42,7 +42,7 @@ struct ContentView: View {
                                 .foregroundColor(.white)
                                 .background(.black)
                                 .cornerRadius(100)
-                                .font(.system(size:20))
+                                .font(.system(size:25))
                         }
                         .padding(.top, 30)
                     }
