@@ -12,7 +12,10 @@ struct ContentView: View {
     @State private var count = 0
     var body: some View {
         ZStack{
-            Color.blue.ignoresSafeArea()
+            //background color to change when count is a multiple of 100
+            (count % 100 == 0 ? Color.green : Color.blue)
+                            .ignoresSafeArea()
+            //Color.blue.ignoresSafeArea()
                 
                     VStack {
                         Text("\(count)")
